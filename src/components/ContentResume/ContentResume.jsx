@@ -2,7 +2,7 @@ import React from 'react'
 
 const ContentResume = () => {
     return (
-        <div className="bg-blue-500 text-white">
+        <div className="bg-white rounded-lg px-4 flex items-center">
             <div className=" p-4 flex items-center">
                 <i className="fa-solid fa-circle-info"></i>
                 <h3>
